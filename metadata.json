@@ -1,0 +1,8 @@
+{
+  "name": "JeevanChat",
+  "description": "Lead-capture web application with embedded assistant 'Jeevan' and admin dashboard for Jeevan Pathology Lab in Pune, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
